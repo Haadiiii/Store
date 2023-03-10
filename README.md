@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://development--ornate-gingersnap-4eef7a.netlify.app/)
+- [Live Demo Link](https://store-haadii.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
