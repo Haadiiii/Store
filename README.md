@@ -31,7 +31,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Store Web Applicaion]** is an online store that allows users to buy products and sellers to sell their products, it is a web application built with React.ts and tailwindcss.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,7 +42,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">React.ts</a></li>
   </ul>
 </details>
 
